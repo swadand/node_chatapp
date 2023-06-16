@@ -1,0 +1,19 @@
+{
+  "name": "example-socket-io-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "18.16.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "swadand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0",
+    "socket.io": "^4.6.2"
+  }
+}
